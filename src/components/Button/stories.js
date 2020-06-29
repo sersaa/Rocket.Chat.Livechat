@@ -7,7 +7,7 @@ import ChatIcon from '../../icons/chat.svg';
 import { Button } from '.';
 
 
-const defaultText = 'Powered by Rocket.Chat';
+const defaultText = 'Powered by Omnitok';
 const defaultBadge = 'badged';
 
 storiesOf('Components|Button', module)
